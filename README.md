@@ -33,10 +33,10 @@
 <h3>To do</h3>
 
  * [x] deploy to vps setup
- * [x] brodcast message to users
- * [x] users counter
- * [x] custom thumbunali support
- * [x] custom caption support
+ * [ ] brodcast message to users
+ * [ ] users counter
+ * [ ] custom thumbunali support
+ * [ ] custom caption support
  
 <h3>Deploy</h3>
 
